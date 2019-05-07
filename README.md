@@ -10,7 +10,7 @@ As the solvers are implemented in PyTorch, algorithms in this repository are ful
 
 ## Installation
 ```
-git clone https://github.com/rtqichen/torchdiffeq.git
+git clone https://github.com/teopb/ode-net-examples.git
 cd torchdiffeq
 pip install -e .
 ```
