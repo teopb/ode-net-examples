@@ -13,7 +13,6 @@ import pickle
 parser = argparse.ArgumentParser()
 parser.add_argument('--adjoint', type=eval, default=False)
 parser.add_argument('--viz', action='store_true')
-# parser.add_argument('--visualize', type=eval, default=False)
 parser.add_argument('--niters', type=int, default=2000)
 parser.add_argument('--lr', type=float, default=0.01)
 parser.add_argument('--gpu', type=int, default=0)
